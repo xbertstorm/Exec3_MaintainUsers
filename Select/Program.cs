@@ -35,7 +35,8 @@ namespace Select
 			{
 				Console.WriteLine(ex.Message);
 			}
+
 			Console.ReadLine();
-		}
+		}		
 	}
 }
